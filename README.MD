@@ -5,11 +5,13 @@
 ![GitHub License](https://img.shields.io/github/license/peter123023/awesome-claude-api?color=blue)
 ![Last Updated](https://img.shields.io/badge/last%20updated-2026--09-brightgreen)
 
+中文 | [English](README_EN.MD)
+
 精心收集和整理的可靠Claude中转API资源列表，帮助开发者快速找到稳定、高性价比的Claude API服务。所有信息均来自官方网站，确保时效性和准确性。
 
 ## 📊 月访问量数据情况（2026-09） <a id="traffic-note"></a>
 
-本期对比 2026-08 与 2026-09 两个月访问量，共覆盖 22 个渠道（已移除停服的 Unity2.Ai，新增收录 LinkAGI、Kunavo、TokenDos、AI SaaS Go、API 快连 与 AnyAIGC）。数据统一取自 traffic.cv（SimilarWeb 估算，最新快照为 2026-09），8 月值由各站标注的环比倒推，口径前后一致。
+本期对比 2026-08 与 2026-09 两个月访问量，共覆盖 22 个渠道（已移除停服的 Unity2.Ai，新增收录 LinkAGI、Kunavo、TokenDos、AI SaaS Go、API 快连 与 AnyAIGC）。
 
 - **头部稳健**：OpenRouter 22.0M → 21.3M（-3.4%），仍是唯一千万级渠道，头部格局稳定。
 - **涨幅偏大**：API 快连 +7785.8%、Kunavo +2778.2%、LLM 大模型照妖镜 +310.1%、B.AI +78.6%、AIHubMix +12.1%。前三者为低基数新站或工具站。
