@@ -19,14 +19,7 @@
 
 ## 📋 目录
 
-- [访问量数据情况](#traffic-note)
-
-- [项目介绍](#intro)
-- [使用说明](#usage)
-- [API列表](#api-list)
-- [检测工具](#tools)
-- [贡献指南](#contributing)
-- [免责声明](#disclaimer)
+[访问量数据情况](#traffic-note) | [项目介绍](#intro) | [使用说明](#usage) | [API列表](#api-list) | [检测工具](#tools) | [贡献指南](#contributing) | [免责声明](#disclaimer)
 
 ## 🚀 项目介绍 <a id="intro"></a>
 
